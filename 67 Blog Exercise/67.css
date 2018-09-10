@@ -1,0 +1,41 @@
+h1 {
+    font-family: 'Archivo Black', sans-serif;
+}
+
+h3 {
+    color: #30b4e8;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+p {
+    font-family: 'Catamaran', sans-serif;
+}
+
+#mainborder {
+  margin-top: 30px;
+  margin-left:  15%;
+  margin-right:  15%;
+  border: 20px solid gray;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
+div p:nth-of-type(1) {
+    /* color: red; */
+    border-left: 7px solid gray;
+    padding: 10px;
+   
+
+}
+
+#midborder {
+    border-bottom: 2px solid rgb(222, 227, 229);
+    padding-bottom: 20px;
+    
+}
+
+
+
